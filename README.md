@@ -3,6 +3,10 @@
 
 因为抖音电商和本地生活是分开的，前段时间因业务需要，写了一个自动弹链接插件，自测商品曝光率可以达到95%以上
 
+试用效果如下：
+![image](https://github.com/woftsun/live-tools/assets/139890307/dac358a3-0894-45e4-b61c-ba1d2ee0661d)
+
+
 ## 试用教程
 [http://assets.woftsun.cn/liveTools.zip](点击下载)
 
