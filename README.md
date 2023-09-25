@@ -9,7 +9,7 @@
 
 
 ## 使用教程
-[http://assets.woftsun.cn/liveTools.zip](点击下载)
+暂时无法下载
 
 点击下载以后，解压文件夹，在chrome或者edge中安装，安装成功后刷新本地生活直播间页面会出现如下选项
 ![image](https://github.com/woftsun/live-tools/assets/139890307/a6a3095f-4225-4f63-9146-5c2133c7777a)
