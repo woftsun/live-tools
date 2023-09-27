@@ -31,7 +31,7 @@
 
 联系方式：
 
-![image](https://github.com/woftsun/live-tools/assets/139890307/3b140490-fe3a-4560-9eaa-2cae0eab553d)
+![image](https://github.com/woftsun/live-tools/assets/139890307/3b140490-fe3a-4560-9eaa-2cae0eab553d){width=60}
 
 
 
