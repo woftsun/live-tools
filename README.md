@@ -5,7 +5,9 @@
 
 使用效果如下：
 
-![image](https://github.com/woftsun/live-tools/assets/139890307/dac358a3-0894-45e4-b61c-ba1d2ee0661d)
+![ea1f2c1e-d01b-40f4-a59f-e0e725bc5c4c](https://github.com/woftsun/live-tools/assets/139890307/467ffb63-cd6a-4fc0-93b1-cd0c29462e26)
+
+
 
 
 ## 使用教程
