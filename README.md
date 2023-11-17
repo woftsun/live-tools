@@ -13,7 +13,10 @@
 ## 使用教程
 ![image](https://github.com/woftsun/live-tools/assets/139890307/5799a844-7e9b-4261-a116-248683d20d0d)
 
-关注公众号，点击获取插件
+关注公众号，点击获取插件 或在chrome扩展商店搜索**本地生活直播助手**
+
+![image](https://github.com/woftsun/live-tools/assets/139890307/e8876f3d-667d-4d25-9820-0cc879c53989)
+
 
 点击下载以后，解压文件夹，在chrome或者edge中安装，安装成功后刷新本地生活直播间页面会出现如下弹窗
 ![image](https://github.com/woftsun/live-tools/assets/139890307/74c91a2f-895b-4fab-b140-de63a2317a3c)
