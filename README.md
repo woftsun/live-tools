@@ -11,7 +11,11 @@
 
 
 ## 使用教程
-![image](https://github.com/woftsun/live-tools/assets/139890307/5799a844-7e9b-4261-a116-248683d20d0d)
+![image](https://github.com/woftsun/live-tools/assets/139890307/68b91296-3e4f-4b9a-9f2b-6656ce77e8cc)
+
+![image](https://github.com/woftsun/live-tools/assets/139890307/2e3e56c4-062e-49c4-b23d-4f39eefd233e)
+
+
 
 关注公众号，点击获取插件 或在chrome扩展商店搜索**本地生活直播助手**
 
@@ -29,6 +33,10 @@
  -  自动发券
  -  自动发福袋
  -  评论回复
+ -  支持快捷添加库存
+ -  支持库存监控功能（低于预警库存弹窗提醒）
+ -  秒杀活动到期提醒 （低于设定时间弹窗提醒）
+ -  支持自动展示入会
 
  **需要别的功能也可找我定制**
 
