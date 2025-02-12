@@ -43,9 +43,7 @@
 源码一口价：8k
 
 
-下载地址：
-
-![image](https://github.com/user-attachments/assets/5519d68f-4a7b-49ee-a4d9-c85092fd8ea5)
+[点击下载](https://tools.woftsun.cn/livetools2.5.2.zip)
 
 
 
